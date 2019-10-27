@@ -3,5 +3,5 @@
 instalar los pquetes de node
 
 ```
-nom install
+npm install
 ```
